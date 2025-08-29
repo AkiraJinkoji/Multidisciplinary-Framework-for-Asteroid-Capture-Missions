@@ -39,7 +39,8 @@ During RPO, a chaser spacecraft must: (1) approach and position itself along the
 - **`step5_CS_mass.py`** (and **`BagCS_mass.py`**) — Bag capture system mass model vs. asteroid diameter & uncertainty; material/geometry scalings and actuator assumptions.
 - **`Step6_Python.py`** — Detumbling of the **captured composite**, including parallel‑axis inertia combination, RCS mapping, and propellant/TOF estimation; optional plots.
 - **`step_2_README.txt`** — In‑code reference & I/O description for Step 2.
-- **`ACM_SciTech_Draft.pdf`** — Report providing the overall mission framework and RPO context.
+- **`Report.pdf`** — Report providing the overall mission framework and RPO context.
+- **`Matlab version`** — The original MATLAB implementation of Step 3, prior to its conversion to Python.
 
 ---
 

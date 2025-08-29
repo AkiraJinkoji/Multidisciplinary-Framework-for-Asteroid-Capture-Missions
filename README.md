@@ -5,8 +5,8 @@ This repository simulates the **Rendezvous & Proximity Operations (RPO)** portio
 ---
 
 ## 1) Context & Scope
-This code is one piece of a larger **integrated modeling & simulation framework** for the asteroid capture missions development described in the attached report (Multidisciplinary Framework for the Conceptual Analysis of
-Asteroid Capture Missions). That framework couples:
+This code is one piece of a larger **integrated modeling & simulation framework** for the asteroid capture missions development described in the attached report ("Multidisciplinary Framework for the Conceptual Analysis of
+Asteroid Capture Missions"). That framework couples:
 
 - **Low‑thrust trajectory design** (outbound to the asteroid and inbound to cislunar space),
 - **Rendezvous & Proximity Operations (RPO)** including approach, spin‑axis alignment, spin‑rate matching, capture, and post‑capture detumbling, and
